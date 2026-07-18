@@ -4,9 +4,9 @@ import os
 from telebot import types
 
 # ================== CONFIGURATION ==================
-TOKEN = 'YOUR_BOT_TOKEN_HERE'                    # ← Put your bot token
-GROUP_CHAT_ID = -100XXXXXXXXXX                   # ← Your group ID
-CHANNEL_CHAT_ID = -100YYYYYYYYYY                 # ← Your channel ID
+TOKEN = '8941960315:AAEw6aZ91KSAlphLfAYkYptUrSy-DkaivPc'                    # ← Put your bot token
+GROUP_CHAT_ID = -1004352824842                   # ← Your group ID
+CHANNEL_CHAT_ID = -1004296647257                 # ← Your channel ID
 BAN_WORDS = ["nahi chlra", "bekar", "dm"]        # Add more lowercase words
 WOW_IMAGE_PATH = 'wow.jpg'                       # Must be in same folder
 # ===================================================
